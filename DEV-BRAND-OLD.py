@@ -152,7 +152,7 @@ class OLD_CLONER:
         limit = int(input("SELECT   - "))
         for a in range(limit):
             ALONE DEV = "".join(random.choice(string.digits) for _ in range(self.uG))
-            self.gen.append(ADEV)
+            self.gen.append(ALONE DEV)
         with ThreadPoolExecutor(max_workers=50) as Mr_Code:
             self.banner()
             print(" \033[1;32m [\033[1;37m√\033[1;32m] \033[1;37m TOTAL IDS \033[1;32m - "+str(len(self.gen)))
